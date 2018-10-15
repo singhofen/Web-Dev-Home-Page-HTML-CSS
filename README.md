@@ -3,6 +3,7 @@ Responsive Bootstrap 4 /
 Horizonatl & vertical scrolling  Web Dev Home/Landing Page
 # For anyone looking to create a modest landing web dev page to promote their projects
 *****
+https://codepen.io/csinghofen/pen/NLqgqb?editors=0100 
 # Complete redesign of Web Developer landing page. 
 What was added: 
 1. added horizontal scrlling area to display projects.
